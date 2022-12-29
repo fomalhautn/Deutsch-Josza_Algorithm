@@ -21,7 +21,8 @@
 <h2 style="text-align: center;"><a href="https://qt.eu/">European Union Quantum Flagship /</a> <a href="https://qtom.qtedu.eu/">QTEdu Quantum Technology Open Master</a></h2>
 <h2 style="text-align: center;">IBM Quantum</h2>
 <h3>Deutsch Josza Algorithm</h3>
-<p>The Deutsch-Jozsa algorithm was the first example of a quantum algorithm that performs better than the best classical algorithm. It showed that there can be advantages to using a quantum computer as a computational tool for a specific problem.</p> 
+<p>The Deutsch-Jozsa algorithm was the first example of a quantum algorithm that performs better than the best classical algorithm.</p> 
+<p>It showed that there can be advantages to using a quantum computer as a computational tool for a specific problem.</p> 
 
 <h2>More information is provided via Jupyter Notebook: <a href="https://github.com/fomalhautn/Deutsch-Josza_Algorithm/blob/main/Deutsch-Josza.ipynb"><em>Deutsch-Josza.ipynb</em></a></h2>
 
